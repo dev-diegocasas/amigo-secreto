@@ -14,8 +14,6 @@ Este proyecto implementa una aplicación web sencilla para realizar el tradicion
 5. [Estructura de Archivos](#-estructura-de-archivos)
 6. [Funciones Principales](#-funciones-principales)
 7. [Mejoras Futuras](#-mejoras-futuras)
-8. [Contribución](#-contribución)
-9. [Licencia](#-licencia)
 
 ---
 
@@ -93,19 +91,5 @@ Este proyecto implementa una aplicación web sencilla para realizar el tradicion
 - Guardar y recuperar la lista desde `localStorage`.
 - Añadir estilos y animaciones.
 
----
 
-## 🤝 Contribución
-
-1. Haz un fork de este repositorio.
-2. Crea una rama (`git checkout -b mejora-feature`).
-3. Realiza tus cambios y commitea (`git commit -m "Añadir nueva funcionalidad"`).
-4. Empuja tu rama (`git push origin mejora-feature`).
-5. Abre un Pull Request.
-
----
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia MIT. Revisar el archivo `LICENSE` para más detalles.
 
